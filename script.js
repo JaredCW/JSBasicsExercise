@@ -32,7 +32,7 @@ console.log("\/");
 console.log(5 ** 4 - 9);
 
 // BONUS THREE
-console.log(("I".length + "Am".length + "Iron".length + "Man".length) % 9); 
+console.log(("I".length + "Am".length + "Iron".length + "Man".length) % 10); 
 
 // BONUS FOUR
 console.log("CAP"[1]);
