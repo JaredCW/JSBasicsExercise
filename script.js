@@ -49,3 +49,5 @@ var m = 25;
 var c = 4;
 var u = m + c;
 console.log(u);
+
+// "const" and "let" also define variables. "let" has some boundaries that prevent conflicts in modern code, and is considered the Best Practice these days. WOW I DIDN'T EXPECT TO BE OLD-SCHOOL LOL
