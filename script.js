@@ -20,7 +20,7 @@ console.log('I\'M MARY POPPINS, Y\'ALL!');
 console.log("Hawk" + "eye");
 
 // STEP SEVEN
-console.log("Jared Conner".length);
+console.log("Jared".length + "Conner".length);
 
 // STEP EIGHT
 console.log("Avengers: Endgame"[16]);
